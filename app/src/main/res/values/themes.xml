@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TodoList" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/seashell</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/ultramarine_blue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:textColor">@color/cinder</item>
+        <item name="popupMenuBackground">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ultramarine_blue</item>
+        <item name="colorSecondaryVariant">@color/seashell</item>
+        <item name="colorOnSecondary">@color/cinder</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/seashell</item>
+
+
+    </style>
+</resources>

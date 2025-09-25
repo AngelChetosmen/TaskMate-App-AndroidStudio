@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Cambia el color de los botones -->
+        <item name="colorAccent">#000000</item> <!-- Cambia este color al deseado -->
+        <!-- Cambia el color del fondo del calendario -->
+        <item name="android:background">#FFFFFF</item> <!-- Cambia este color al deseado -->
+    </style>
+    <style name="CustomDatePickerDialogButton" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">#536470</item>
+    </style>
+</resources>

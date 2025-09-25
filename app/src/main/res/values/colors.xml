@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Dark-->
+    <color name="mirage">#989FA7</color>
+    <color name="ebony_clay">#222836</color>
+    <!--#171C28 mirage
+        #222836 ebony_clay-->
+
+    <!--Light-->
+    <color name="seashell">#989FA7</color>
+    <color name="geyser">#DBDEE2</color>
+    <!--#DBDEE2 geyser
+        #ECF0F1 seashell-->
+
+    <!--Globals-->
+    <!--#3369FF
+        #14A3C7 -> ultramarine_blue -->
+    <color name="ultramarine_blue">#3369ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cinder">#0E121A</color>
+    <color name="cheese">#FEB52C</color>
+    <color name="curious_blue">#3498DB</color>
+    <color name="jade_green">#27AE60</color>
+    <color name="dark_lavender">#7D3C98</color>
+    <color name="carmine_pink">#E74C3C</color>
+
+    <!--Other colors-->
+    <color name="button_text_color">#536470</color>
+
+</resources>
